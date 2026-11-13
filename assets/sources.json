@@ -1,0 +1,364 @@
+[
+  {
+    "file": "easetonic-plus.png",
+    "source": "https://www.activeherb.com/img/products/guang-ci-tang/AH063P-jwxiaoyao-910w.png",
+    "status": "200 image/png",
+    "bytes": 335775
+  },
+  {
+    "file": "alltonic.png",
+    "source": "https://www.activeherb.com/img/products/modern-essentials/AH053-alltonic-910w.png",
+    "status": "200 image/png",
+    "bytes": 251678
+  },
+  {
+    "file": "hairvive.png",
+    "source": "https://www.activeherb.com/img/products/modern-essentials/AH099-hairvive-910w.png",
+    "status": "200 image/png",
+    "bytes": 235927
+  },
+  {
+    "file": "easetonic.png",
+    "source": "https://www.activeherb.com/img/products/modern-essentials/AH105-easetonic-910w.png",
+    "status": "200 image/png",
+    "bytes": 224164
+  },
+  {
+    "file": "livervive.png",
+    "source": "https://www.activeherb.com/img/products/modern-essentials/AH145-livervive-910w.png",
+    "status": "200 image/png",
+    "bytes": 245321
+  },
+  {
+    "file": "reishi.png",
+    "source": "https://www.activeherb.com/img/products/single-herb-extracts/AH751E-reishi-910w.png",
+    "status": "200 image/png",
+    "bytes": 252963
+  },
+  {
+    "file": "easetonic-plus-pills.png",
+    "source": "https://www.activeherb.com/img/products/guang-ci-tang/AH063W-jwxiaoyao-910w.png",
+    "status": "200 image/png",
+    "bytes": 316952
+  },
+  {
+    "file": "astragalus.png",
+    "source": "https://www.activeherb.com/img/products/bulk-chinese-herbs/AH612-huangqi-510w.png",
+    "status": "200 image/png",
+    "bytes": 389951
+  },
+  {
+    "file": "bencao-gangmu-woodcut.jpg",
+    "source": "https://iiif.wellcomecollection.org/image/L0039330/full/1000,/0/default.jpg",
+    "catalogue": "https://wellcomecollection.org/works/cqmecrcq",
+    "title": "Bencao Gangmu -- Ming materia medica, Trifoliate orange, etc.",
+    "creator": "Illustrations credited by Wellcome to Li Jianyuan",
+    "credit": "Wellcome Collection",
+    "license": "Public Domain Mark",
+    "license_url": "https://creativecommons.org/share-your-work/public-domain/pdm/",
+    "treatment": "Original image downloaded at 1000 px wide; no image edits. Displayed as historical reference, not a company artifact."
+  },
+  {
+    "file": "white-peony.png",
+    "source": "https://www.activeherb.com/img/products/bulk-chinese-herbs/AH648-baishao-510w.png",
+    "purpose": "Existing ActiveHerb herb photograph used in ingredient education",
+    "status": "200 image/png"
+  },
+  {
+    "file": "dong-quai.png",
+    "source": "https://www.activeherb.com/img/products/bulk-chinese-herbs/AH629-danggui-510w.png",
+    "purpose": "Existing ActiveHerb herb photograph used in ingredient education",
+    "status": "200 image/png"
+  },
+  {
+    "file": "herb-table-v5.jpg",
+    "source": "Generated using the built-in image_gen tool for this local concept",
+    "purpose": "Illustrative editorial brand photography; not a photograph of ActiveHerb inventory or facilities",
+    "provenance": "photography-v5-provenance.json"
+  },
+  {
+    "file": "roots-closeup-v5.jpg",
+    "source": "Generated using the built-in image_gen tool for this local concept",
+    "purpose": "Illustrative editorial brand photography; not a photograph of ActiveHerb inventory or facilities",
+    "provenance": "photography-v5-provenance.json"
+  },
+  {
+    "file": "reishi-detail-v5.jpg",
+    "source": "Generated using the built-in image_gen tool for this local concept",
+    "purpose": "Illustrative editorial brand photography; not a photograph of ActiveHerb inventory or facilities",
+    "provenance": "photography-v5-provenance.json"
+  },
+  {
+    "file": "labels-v1/mockups/easetonic-plus.png",
+    "source": "Original editable label artwork and local Blender scene, created for iteration 07",
+    "artwork": "labels-v1/fronts/easetonic-plus.svg",
+    "code": "AH063P",
+    "purpose": "Proposed front-label design on approximate bottle geometry; not existing retail packaging"
+  },
+  {
+    "file": "labels-v1/mockups/alltonic.png",
+    "source": "Original editable label artwork and local Blender scene, created for iteration 07",
+    "artwork": "labels-v1/fronts/alltonic.svg",
+    "code": "AH053",
+    "purpose": "Proposed front-label design on approximate bottle geometry; not existing retail packaging"
+  },
+  {
+    "file": "labels-v1/mockups/hairvive.png",
+    "source": "Original editable label artwork and local Blender scene, created for iteration 07",
+    "artwork": "labels-v1/fronts/hairvive.svg",
+    "code": "AH099",
+    "purpose": "Proposed front-label design on approximate bottle geometry; not existing retail packaging"
+  },
+  {
+    "file": "labels-v1/mockups/reishi.png",
+    "source": "Original editable label artwork and local Blender scene, created for iteration 07",
+    "artwork": "labels-v1/fronts/reishi.svg",
+    "code": "AH751E",
+    "purpose": "Proposed front-label design on approximate bottle geometry; not existing retail packaging"
+  },
+  {
+    "file": "labels-v1/mockups/easetonic.png",
+    "source": "Original editable label artwork and local Blender scene, created for iteration 07",
+    "artwork": "labels-v1/fronts/easetonic.svg",
+    "code": "AH105",
+    "purpose": "Proposed front-label design on approximate bottle geometry; not existing retail packaging"
+  },
+  {
+    "file": "labels-v1/mockups/livervive.png",
+    "source": "Original editable label artwork and local Blender scene, created for iteration 07",
+    "artwork": "labels-v1/fronts/livervive.svg",
+    "code": "AH145",
+    "purpose": "Proposed front-label design on approximate bottle geometry; not existing retail packaging"
+  },
+  {
+    "file": "labels-v1/mockups/easetonic-plus-pills.png",
+    "source": "Original editable label artwork and local Blender scene, created for iteration 07",
+    "artwork": "labels-v1/fronts/easetonic-plus-pills.svg",
+    "code": "AH063W",
+    "purpose": "Proposed front-label design on approximate bottle geometry; not existing retail packaging"
+  },
+  {
+    "file": "labels-v2/mockups/easetonic-plus.png",
+    "source": "Original SVG layout with generated ingredient illustrations and a local Blender lighting/rendering setup",
+    "artwork": "labels-v2/fronts/easetonic-plus.svg",
+    "code": "AH063P",
+    "purpose": "Proposed front-label design; not existing retail packaging",
+    "illustration_prompts": "labels-v2/illustration-prompts.json"
+  },
+  {
+    "file": "labels-v2/mockups/alltonic.png",
+    "source": "Original SVG layout with generated ingredient illustrations and a local Blender lighting/rendering setup",
+    "artwork": "labels-v2/fronts/alltonic.svg",
+    "code": "AH053",
+    "purpose": "Proposed front-label design; not existing retail packaging",
+    "illustration_prompts": "labels-v2/illustration-prompts.json"
+  },
+  {
+    "file": "labels-v2/mockups/hairvive.png",
+    "source": "Original SVG layout with generated ingredient illustrations and a local Blender lighting/rendering setup",
+    "artwork": "labels-v2/fronts/hairvive.svg",
+    "code": "AH099",
+    "purpose": "Proposed front-label design; not existing retail packaging",
+    "illustration_prompts": "labels-v2/illustration-prompts.json"
+  },
+  {
+    "file": "labels-v2/mockups/reishi.png",
+    "source": "Original SVG layout with generated ingredient illustrations and a local Blender lighting/rendering setup",
+    "artwork": "labels-v2/fronts/reishi.svg",
+    "code": "AH751E",
+    "purpose": "Proposed front-label design; not existing retail packaging",
+    "illustration_prompts": "labels-v2/illustration-prompts.json"
+  },
+  {
+    "file": "labels-v2/mockups/easetonic.png",
+    "source": "Original SVG layout with generated ingredient illustrations and a local Blender lighting/rendering setup",
+    "artwork": "labels-v2/fronts/easetonic.svg",
+    "code": "AH105",
+    "purpose": "Proposed front-label design; not existing retail packaging",
+    "illustration_prompts": "labels-v2/illustration-prompts.json"
+  },
+  {
+    "file": "labels-v2/mockups/livervive.png",
+    "source": "Original SVG layout with generated ingredient illustrations and a local Blender lighting/rendering setup",
+    "artwork": "labels-v2/fronts/livervive.svg",
+    "code": "AH145",
+    "purpose": "Proposed front-label design; not existing retail packaging",
+    "illustration_prompts": "labels-v2/illustration-prompts.json"
+  },
+  {
+    "file": "labels-v2/mockups/easetonic-plus-pills.png",
+    "source": "Original SVG layout with generated ingredient illustrations and a local Blender lighting/rendering setup",
+    "artwork": "labels-v2/fronts/easetonic-plus-pills.svg",
+    "code": "AH063W",
+    "purpose": "Proposed front-label design; not existing retail packaging",
+    "illustration_prompts": "labels-v2/illustration-prompts.json"
+  },
+  {
+    "file": "labels-v3/mockups/easetonic-plus.png",
+    "source": "Native editable SVG typography and geometric rules, with local Blender bottle rendering; no generated illustrations",
+    "artwork": "labels-v3/fronts/easetonic-plus.svg",
+    "code": "AH063P",
+    "purpose": "Proposed front-label concept on approximate bottle geometry; not existing retail packaging"
+  },
+  {
+    "file": "labels-v3/mockups/alltonic.png",
+    "source": "Native editable SVG typography and geometric rules, with local Blender bottle rendering; no generated illustrations",
+    "artwork": "labels-v3/fronts/alltonic.svg",
+    "code": "AH053",
+    "purpose": "Proposed front-label concept on approximate bottle geometry; not existing retail packaging"
+  },
+  {
+    "file": "labels-v3/mockups/hairvive.png",
+    "source": "Native editable SVG typography and geometric rules, with local Blender bottle rendering; no generated illustrations",
+    "artwork": "labels-v3/fronts/hairvive.svg",
+    "code": "AH099",
+    "purpose": "Proposed front-label concept on approximate bottle geometry; not existing retail packaging"
+  },
+  {
+    "file": "labels-v3/mockups/reishi.png",
+    "source": "Native editable SVG typography and geometric rules, with local Blender bottle rendering; no generated illustrations",
+    "artwork": "labels-v3/fronts/reishi.svg",
+    "code": "AH751E",
+    "purpose": "Proposed front-label concept on approximate bottle geometry; not existing retail packaging"
+  },
+  {
+    "file": "labels-v3/mockups/easetonic.png",
+    "source": "Native editable SVG typography and geometric rules, with local Blender bottle rendering; no generated illustrations",
+    "artwork": "labels-v3/fronts/easetonic.svg",
+    "code": "AH105",
+    "purpose": "Proposed front-label concept on approximate bottle geometry; not existing retail packaging"
+  },
+  {
+    "file": "labels-v3/mockups/livervive.png",
+    "source": "Native editable SVG typography and geometric rules, with local Blender bottle rendering; no generated illustrations",
+    "artwork": "labels-v3/fronts/livervive.svg",
+    "code": "AH145",
+    "purpose": "Proposed front-label concept on approximate bottle geometry; not existing retail packaging"
+  },
+  {
+    "file": "labels-v3/mockups/easetonic-plus-pills.png",
+    "source": "Native editable SVG typography and geometric rules, with local Blender bottle rendering; no generated illustrations",
+    "artwork": "labels-v3/fronts/easetonic-plus-pills.svg",
+    "code": "AH063W",
+    "purpose": "Proposed front-label concept on approximate bottle geometry; not existing retail packaging"
+  },
+  {
+    "file": "labels-v4/mockups/easetonic-plus.png",
+    "source": "User-supplied 1_front_white.psd with iteration 09 label artwork",
+    "artwork": "labels-v4/fronts/easetonic-plus.svg",
+    "code": "AH063P",
+    "purpose": "Proposed packaging used in the iteration 02 website foundation",
+    "provenance": "labels-v4/provenance.json"
+  },
+  {
+    "file": "labels-v4/mockups/alltonic.png",
+    "source": "User-supplied 1_front_white.psd with iteration 09 label artwork",
+    "artwork": "labels-v4/fronts/alltonic.svg",
+    "code": "AH053",
+    "purpose": "Proposed packaging used in the iteration 02 website foundation",
+    "provenance": "labels-v4/provenance.json"
+  },
+  {
+    "file": "labels-v4/mockups/hairvive.png",
+    "source": "User-supplied 1_front_white.psd with iteration 09 label artwork",
+    "artwork": "labels-v4/fronts/hairvive.svg",
+    "code": "AH099",
+    "purpose": "Proposed packaging used in the iteration 02 website foundation",
+    "provenance": "labels-v4/provenance.json"
+  },
+  {
+    "file": "labels-v4/mockups/reishi.png",
+    "source": "User-supplied 1_front_white.psd with iteration 09 label artwork",
+    "artwork": "labels-v4/fronts/reishi.svg",
+    "code": "AH751E",
+    "purpose": "Proposed packaging used in the iteration 02 website foundation",
+    "provenance": "labels-v4/provenance.json"
+  },
+  {
+    "file": "labels-v4/mockups/easetonic.png",
+    "source": "User-supplied 1_front_white.psd with iteration 09 label artwork",
+    "artwork": "labels-v4/fronts/easetonic.svg",
+    "code": "AH105",
+    "purpose": "Proposed packaging used in the iteration 02 website foundation",
+    "provenance": "labels-v4/provenance.json"
+  },
+  {
+    "file": "labels-v4/mockups/livervive.png",
+    "source": "User-supplied 1_front_white.psd with iteration 09 label artwork",
+    "artwork": "labels-v4/fronts/livervive.svg",
+    "code": "AH145",
+    "purpose": "Proposed packaging used in the iteration 02 website foundation",
+    "provenance": "labels-v4/provenance.json"
+  },
+  {
+    "file": "labels-v4/mockups/easetonic-plus-pills.png",
+    "source": "User-supplied 1_front_white.psd with iteration 09 label artwork",
+    "artwork": "labels-v4/fronts/easetonic-plus-pills.svg",
+    "code": "AH063W",
+    "purpose": "Proposed packaging used in the iteration 02 website foundation",
+    "provenance": "labels-v4/provenance.json"
+  },
+  {
+    "file": "labels-v5/mockups/easetonic-plus.png",
+    "source": "Supplied PSD bottle with the preferred botanical GCT front: English-led hierarchy, small Chinese-name and SKU signature, pinyin on separate side identification artwork",
+    "artwork": "labels-v5/fronts/easetonic-plus.svg",
+    "code": "AH063P",
+    "purpose": "Enlarged preferred packaging in the iteration 02 website foundation",
+    "provenance": "labels-v5/provenance.json",
+    "illustrations": "Retained from labels-v2; see original illustration-prompts.json"
+  },
+  {
+    "file": "labels-v5/mockups/alltonic.png",
+    "source": "User-supplied 1_front_white.psd with preferred botanical labels and enlarged supporting typography; ActiveHerb and product-name sizes and positions retained",
+    "artwork": "labels-v5/fronts/alltonic.svg",
+    "code": "AH053",
+    "purpose": "Enlarged preferred packaging in the iteration 02 website foundation",
+    "provenance": "labels-v5/provenance.json",
+    "illustrations": "Retained from labels-v2; see original illustration-prompts.json"
+  },
+  {
+    "file": "labels-v5/mockups/hairvive.png",
+    "source": "User-supplied 1_front_white.psd with preferred botanical labels and enlarged supporting typography; ActiveHerb and product-name sizes and positions retained",
+    "artwork": "labels-v5/fronts/hairvive.svg",
+    "code": "AH099",
+    "purpose": "Enlarged preferred packaging in the iteration 02 website foundation",
+    "provenance": "labels-v5/provenance.json",
+    "illustrations": "Retained from labels-v2; see original illustration-prompts.json"
+  },
+  {
+    "file": "labels-v5/mockups/reishi.png",
+    "source": "User-supplied 1_front_white.psd with preferred botanical labels and enlarged supporting typography; ActiveHerb and product-name sizes and positions retained",
+    "artwork": "labels-v5/fronts/reishi.svg",
+    "code": "AH751E",
+    "purpose": "Enlarged preferred packaging in the iteration 02 website foundation",
+    "provenance": "labels-v5/provenance.json",
+    "illustrations": "Retained from labels-v2; see original illustration-prompts.json"
+  },
+  {
+    "file": "labels-v5/mockups/easetonic.png",
+    "source": "User-supplied 1_front_white.psd with preferred botanical labels and enlarged supporting typography; ActiveHerb and product-name sizes and positions retained",
+    "artwork": "labels-v5/fronts/easetonic.svg",
+    "code": "AH105",
+    "purpose": "Enlarged preferred packaging in the iteration 02 website foundation",
+    "provenance": "labels-v5/provenance.json",
+    "illustrations": "Retained from labels-v2; see original illustration-prompts.json"
+  },
+  {
+    "file": "labels-v5/mockups/livervive.png",
+    "source": "User-supplied 1_front_white.psd with preferred botanical labels and enlarged supporting typography; ActiveHerb and product-name sizes and positions retained",
+    "artwork": "labels-v5/fronts/livervive.svg",
+    "code": "AH145",
+    "purpose": "Enlarged preferred packaging in the iteration 02 website foundation",
+    "provenance": "labels-v5/provenance.json",
+    "illustrations": "Retained from labels-v2; see original illustration-prompts.json"
+  },
+  {
+    "file": "labels-v5/mockups/easetonic-plus-pills.png",
+    "source": "Supplied PSD bottle with the preferred botanical GCT front: English-led hierarchy, small Chinese-name and SKU signature, pinyin on separate side identification artwork",
+    "artwork": "labels-v5/fronts/easetonic-plus-pills.svg",
+    "code": "AH063W",
+    "purpose": "Enlarged preferred packaging in the iteration 02 website foundation",
+    "provenance": "labels-v5/provenance.json",
+    "illustrations": "Retained from labels-v2; see original illustration-prompts.json"
+  }
+]
